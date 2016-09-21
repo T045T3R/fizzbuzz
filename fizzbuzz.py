@@ -52,11 +52,11 @@ for x in range(1,num+1):
    if x%(fizz*buzz)==0:
        print("Fizz")
        print("Buzz")
-       else:
-    if x%fizz==0
-        print("Fizz")
-    else:
-        if x%buzz==0
-            print("Buzz")
+      else:
+     if x%fizz==0
+            print("Fizz")
         else:
-            print(x)
+            if x%buzz==0
+                print("Buzz")
+            else:
+                print(x)
