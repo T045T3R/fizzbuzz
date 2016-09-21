@@ -53,7 +53,7 @@ for x in range(1,num+1):
        print("Fizz")
        print("Buzz")
 else:
-        if x%int(fizz)==0
+        if x%intfizz == 0
             print("Fizz")
         else:
             if x%buzz==0
