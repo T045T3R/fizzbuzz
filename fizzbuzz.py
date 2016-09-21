@@ -1,7 +1,7 @@
 """
 fizzbuzz.py
-Author: <your name here>
-Credit: <list sources used, if any>
+Author: Johannes
+Credit: Wilson
 
 Assignment:
 
@@ -44,3 +44,4 @@ Fizz
 Fizz
 Buzz
 """
+num = input("How many numbers shall we print? ")
