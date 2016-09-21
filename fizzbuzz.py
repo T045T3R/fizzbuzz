@@ -52,8 +52,8 @@ for x in range(1,num+1):
    if x%(fizz*buzz)==0:
        print("Fizz")
        print("Buzz")
-      else:
-     if x%fizz==0
+else:
+        if x%int(fizz)==0
             print("Fizz")
         else:
             if x%buzz==0
