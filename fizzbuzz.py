@@ -52,4 +52,7 @@ for x in range(1,num):
     if x%fizz==0
         print("Fizz")
     else:
-        if x%buzz
+        if x%buzz==0
+            print("Buzz")
+        else:
+            print(x)
